@@ -25,7 +25,7 @@
 #endif
 
 
-#define UDP_MAX_DATAGRAM_SIZE 8192
+#define UDP_MAX_DATAGRAM_SIZE 16384
 // by libearxiong
 #include <ngx_config.h>
 #include <ngx_core.h>
